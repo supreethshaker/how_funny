@@ -1,7 +1,3 @@
-# Fall-2021-CMPE-255-Project-Group-1
-
-This is our group project for CMPE 255.
-
 ## Abstract
 
 The general aim for this project is to read compare different classification metrics on a dataset of our choosing.
