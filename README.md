@@ -1,12 +1,12 @@
 ## Abstract
 
-The general aim for this project is to read compare different classification metrics on a dataset of our choosing.
+The general aim for this project is to read compare different classification metrics on a dataset of choice.
 
-We combined the One million reddit jokes dataset and highlights from the CNN dailymail dataset and marked them as 1 for jokes and -1 for not jokes. (Everything from reddit was considered a joke and highlights from cnn/dailymail was considered to not be one).
+One million reddit jokes dataset and highlights from the CNN dailymail dataset were combined and marked as 1 for jokes and -1 for not jokes. (Everything from reddit was considered a joke and highlights from cnn/dailymail was considered to not be one).
 
 ## Description
 
-This problem is a binary classification problem. After preprocessing the data we will test a variety of different classification models to determine which model works best. 
+This problem is a binary classification problem. After preprocessing the data, a variety of different classification models are tested to determine which model works best. 
 
 ### Dimensionality Reduction
 - TfIdf Vectorization
@@ -23,7 +23,7 @@ The models we will test are:
 - SVC (Support Vector Classifier)
 - XGBoost
 
-We will use the same metrics for each model to compare them.
+The same metrics are used for each model to compare them.
 
 ### Classification Metrics
 The classification metrics used to compare models will be:
